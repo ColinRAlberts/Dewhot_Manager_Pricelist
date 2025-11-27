@@ -1,0 +1,3089 @@
+[
+  {
+    "modelType": "CT",
+    "sku": "CT-12BCW",
+    "name": "CT Conversion Wire - 12B",
+    "dealerPrice": "5",
+    "retailPrice": "6"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-BBD",
+    "name": "CT Double Battery Box",
+    "dealerPrice": "55",
+    "retailPrice": "74"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-BBS",
+    "name": "CT Single Battery Box",
+    "dealerPrice": "55",
+    "retailPrice": "74"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-BTTHCONT",
+    "name": "CT BTTH Ignition controller",
+    "dealerPrice": "662",
+    "retailPrice": "883"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-CK",
+    "name": "CT Control Knob",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-CONTBOXCOV",
+    "name": "CT Control Box Cover",
+    "dealerPrice": "82",
+    "retailPrice": "109"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-DLHS",
+    "name": "CT Diaphragm - LHS",
+    "dealerPrice": "57",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-DRHS",
+    "name": "CT Diaphragm - RHS",
+    "dealerPrice": "57",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-FOS",
+    "name": "CT Flame out sensor",
+    "dealerPrice": "23",
+    "retailPrice": "31"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-GBTRCONT",
+    "name": "CT GBTR Ignition Controller",
+    "dealerPrice": "678",
+    "retailPrice": "904"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-GPJ",
+    "name": "CT Gas Pilot Jet",
+    "dealerPrice": "14",
+    "retailPrice": "19"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-GPT",
+    "name": "CT Gas Pilot Tube",
+    "dealerPrice": "77",
+    "retailPrice": "103"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-IP",
+    "name": "CT Ignitor Pin",
+    "dealerPrice": "32",
+    "retailPrice": "42"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-LCDN",
+    "name": "CT LCD (New Style)",
+    "dealerPrice": "283",
+    "retailPrice": "377"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-LG1.5",
+    "name": "CT Loom to Gas Section  1.5K",
+    "dealerPrice": "57",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-LLCD",
+    "name": "CT Loom to LCD",
+    "dealerPrice": "41",
+    "retailPrice": "55"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-LLCDAdapter",
+    "name": "CT Loom to LCD Adapter",
+    "dealerPrice": "37",
+    "retailPrice": "50"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-LLCDO",
+    "name": "CT Loom to LCD (OLD)",
+    "dealerPrice": "75",
+    "retailPrice": "100"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-ORGW",
+    "name": "CT 'O' Ring Washer",
+    "dealerPrice": "23",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-VAGSC",
+    "name": "CT Valve Assembly/Gas Section Complete",
+    "dealerPrice": "610",
+    "retailPrice": "725"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-WFS",
+    "name": "CT Water Flow Sensor",
+    "dealerPrice": "283",
+    "retailPrice": "377"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-WIA",
+    "name": "CT Water Inlet Assembly",
+    "dealerPrice": "216",
+    "retailPrice": "288"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-WITS",
+    "name": "CT Water Inlet Temp Sensor",
+    "dealerPrice": "57",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "CT",
+    "sku": "CT-WOTS",
+    "name": "CT Water Outlet Temp Sensor",
+    "dealerPrice": "103",
+    "retailPrice": "137"
+  },
+  {
+    "modelType": "CT",
+    "sku": "TS85",
+    "name": "Temp Sensor 85deg - Radiator",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "CT",
+    "sku": "TS88",
+    "name": "Temp Sensor 88deg - Chimney",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "CT",
+    "sku": "16CT-FBJB",
+    "name": "16CT Flame Burner & Jet Bar (LPG)",
+    "dealerPrice": "368",
+    "retailPrice": "480"
+  },
+  {
+    "modelType": "CT",
+    "sku": "16CT-FB",
+    "name": "16CT Flame Burner (LPG)",
+    "dealerPrice": "180",
+    "retailPrice": "240"
+  },
+  {
+    "modelType": "CT",
+    "sku": "16CT-JB",
+    "name": "16CT Jet Bar (LPG",
+    "dealerPrice": "234",
+    "retailPrice": "312"
+  },
+  {
+    "modelType": "CT",
+    "sku": "16CT-CHIM",
+    "name": "16CT Chimney",
+    "dealerPrice": "180",
+    "retailPrice": "240"
+  },
+  {
+    "modelType": "CT",
+    "sku": "16CT-LCDO",
+    "name": "CT LCD (Old Style)",
+    "dealerPrice": "232",
+    "retailPrice": "309"
+  },
+  {
+    "modelType": "CT",
+    "sku": "16CT-RADC",
+    "name": "16CT Radiator - Copper",
+    "dealerPrice": "1921",
+    "retailPrice": "2195"
+  },
+  {
+    "modelType": "CT",
+    "sku": "16CT-WVS",
+    "name": "16CT Water Valve Spindle",
+    "dealerPrice": "23",
+    "retailPrice": "31"
+  },
+  {
+    "modelType": "CT",
+    "sku": "12CT/LP-CHIM",
+    "name": "12CT / LP Chimney",
+    "dealerPrice": "129",
+    "retailPrice": "172"
+  },
+  {
+    "modelType": "CT",
+    "sku": "12CT-FBJB",
+    "name": "12CT Flame Burner & Jet Bar (LPG)",
+    "dealerPrice": "368",
+    "retailPrice": "491"
+  },
+  {
+    "modelType": "CT",
+    "sku": "12CT-RAD",
+    "name": "12 CT Radiator",
+    "dealerPrice": "1120",
+    "retailPrice": "1293"
+  },
+  {
+    "modelType": "CT",
+    "sku": "12CT-RADC",
+    "name": "12CT Radiator",
+    "dealerPrice": "1325",
+    "retailPrice": "1530"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "38DB",
+    "name": "Diaphragm Backer 8/12/16",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "52DB",
+    "name": "Diaphragm Backer 8/12/16",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8/12/16LP-CONT",
+    "name": "LP Controller - 8/12/16",
+    "dealerPrice": "257",
+    "retailPrice": "343"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8/12/16LP-WIS",
+    "name": "LP Water Inlet Sensor - 8/12/16",
+    "dealerPrice": "77",
+    "retailPrice": "103"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP-BB",
+    "name": "LP Battery Box",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP-BBCOV",
+    "name": "LP Battery Box Cover",
+    "dealerPrice": "10",
+    "retailPrice": "14"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP-CK",
+    "name": "LP Control Knobs",
+    "dealerPrice": "18",
+    "retailPrice": "24"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP-LCD",
+    "name": "LP LCD - 5/8/12/16L",
+    "dealerPrice": "180",
+    "retailPrice": "240"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP-WFS",
+    "name": "LP Water Flow sensor",
+    "dealerPrice": "206",
+    "retailPrice": "274"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP/ED-FOS",
+    "name": "LP/ED Flame Out Sensor",
+    "dealerPrice": "10",
+    "retailPrice": "20"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP/ED-IPL",
+    "name": "LP/ED Ignition Pin (Left)",
+    "dealerPrice": "10",
+    "retailPrice": "20"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "LP/ED-IPR",
+    "name": "LP/ED Ignition Pin (Right)",
+    "dealerPrice": "10",
+    "retailPrice": "20"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "OPV",
+    "name": "Over Pressurisation Valve",
+    "dealerPrice": "65",
+    "retailPrice": "100"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "OPVS",
+    "name": "Over Pressurisation Valve - Short",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "OTS",
+    "name": "Outlet Temp Sensor",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "SOL",
+    "name": "Solenoid",
+    "dealerPrice": "154",
+    "retailPrice": "206"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "TS110",
+    "name": "Temp Sensor 110deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "TS130",
+    "name": "Temp Sensor 130 deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "TS75",
+    "name": "Temp Sensor 75deg (Radiator)",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-CONT",
+    "name": "5LP Controller  (Old no LCD)",
+    "dealerPrice": "257",
+    "retailPrice": "343"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-CONTLCD",
+    "name": "5LP Controller  (New with LCD)",
+    "dealerPrice": "257",
+    "retailPrice": "343"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-FB",
+    "name": "5LP Flame Burner",
+    "dealerPrice": "164",
+    "retailPrice": "219"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-FBJB",
+    "name": "5LP Flame Burner & Jet Bar",
+    "dealerPrice": "234",
+    "retailPrice": "312"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-FOS",
+    "name": "5LP Flame out sensor",
+    "dealerPrice": "11",
+    "retailPrice": "14"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-GVA",
+    "name": "5LP Gas Valve Assembly",
+    "dealerPrice": "386",
+    "retailPrice": "515"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-IP",
+    "name": "5LP Ignition Pin",
+    "dealerPrice": "9",
+    "retailPrice": "12"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-JB",
+    "name": "5LP Jet Bar",
+    "dealerPrice": "90",
+    "retailPrice": "120"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-ODS",
+    "name": "5LP Oxygen Depletion Sensor",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-RAD",
+    "name": "5LP Radiator (No LCD)",
+    "dealerPrice": "512",
+    "retailPrice": "591"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-RADLCD",
+    "name": "5LP Radiator  (New with LCD)",
+    "dealerPrice": "512",
+    "retailPrice": "591"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-SHOWER",
+    "name": "5LP Showerhead",
+    "dealerPrice": "210",
+    "retailPrice": "280"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "5LP-SOL2ND",
+    "name": "5LP Solenoid 2nd Stage",
+    "dealerPrice": "103",
+    "retailPrice": "137"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8LP/ED-FBJB",
+    "name": "8LP/ED Flame Burner & Jet Bar",
+    "dealerPrice": "211",
+    "retailPrice": "281"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8LP-FB",
+    "name": "8LP Flame Burner",
+    "dealerPrice": "140",
+    "retailPrice": "187"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8LP-GVA",
+    "name": "8LP Gas Valve Assembly",
+    "dealerPrice": "351",
+    "retailPrice": "468"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8LP-JB",
+    "name": "8LP Jet Bar",
+    "dealerPrice": "129",
+    "retailPrice": "172"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8LP-RAD",
+    "name": "8LP Radiator",
+    "dealerPrice": "810",
+    "retailPrice": "926"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "8LP-WIA",
+    "name": "8L LP Water Inlet Assembly",
+    "dealerPrice": "180",
+    "retailPrice": "240"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12CT/LP-CHIM",
+    "name": "12CT / LP Chimney",
+    "dealerPrice": "129",
+    "retailPrice": "172"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12LP-FB",
+    "name": "12LP Flame Burner",
+    "dealerPrice": "211",
+    "retailPrice": "281"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12LP-FBJB",
+    "name": "12LP Flame Burner & Jet Bar",
+    "dealerPrice": "304",
+    "retailPrice": "406"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12LP-GVA",
+    "name": "12LP Gas Valve Assembly",
+    "dealerPrice": "340",
+    "retailPrice": "453"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12LP-JB",
+    "name": "12LP Jet Bar",
+    "dealerPrice": "116",
+    "retailPrice": "154"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12LP-ONOFF",
+    "name": "LP On/Off Switch",
+    "dealerPrice": "40",
+    "retailPrice": "54"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12LP-RAD",
+    "name": "12LP Radiator",
+    "dealerPrice": "860",
+    "retailPrice": "995"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "12LP-WIA",
+    "name": "12LP Water Inlet Assembly",
+    "dealerPrice": "180",
+    "retailPrice": "240"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "16LP-FBJB",
+    "name": "16LP Flame Burner & Jet Bar",
+    "dealerPrice": "592",
+    "retailPrice": "789"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "16LP-GVA",
+    "name": "16LP Gas Valve Assembly",
+    "dealerPrice": "463",
+    "retailPrice": "617"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "16LP-RAD",
+    "name": "16LP Radiator",
+    "dealerPrice": "1531",
+    "retailPrice": "1749"
+  },
+  {
+    "modelType": "Low Pressure Spares",
+    "sku": "16LP-WIA",
+    "name": "16LP Water Inlet Assembly",
+    "dealerPrice": "180",
+    "retailPrice": "240"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-WICK",
+    "name": "20L Water Inlet Control Knob",
+    "dealerPrice": "15",
+    "retailPrice": "21"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-DCPV",
+    "name": "20L Double Channel Proportional Valve",
+    "dealerPrice": "1489",
+    "retailPrice": "1861"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-DF",
+    "name": "20L Draught Fan",
+    "dealerPrice": "1201",
+    "retailPrice": "1501"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-FB",
+    "name": "20L Flame Burner",
+    "dealerPrice": "1104",
+    "retailPrice": "1381"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-GAW",
+    "name": "20L Gas Adapter Washer",
+    "dealerPrice": "23",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20GIA",
+    "name": "20L Gas inlet adaptor",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-IC",
+    "name": "20L Ignition Controller",
+    "dealerPrice": "1544",
+    "retailPrice": "1801"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-IL",
+    "name": "20L Ignition Loom",
+    "dealerPrice": "25",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-IPA",
+    "name": "20L Ignitor Pin Assembly",
+    "dealerPrice": "32",
+    "retailPrice": "42"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-WITS",
+    "name": "20L Water Inlet Temp Sensor",
+    "dealerPrice": "57",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-JB",
+    "name": "20L Jet Bar",
+    "dealerPrice": "211",
+    "retailPrice": "281"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-OW",
+    "name": "20L O-Size Washer",
+    "dealerPrice": "9",
+    "retailPrice": "12"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-WOTS",
+    "name": "20L Water Outlet Temp Sensor",
+    "dealerPrice": "57",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-RAD",
+    "name": "20L Radiator",
+    "dealerPrice": "2273",
+    "retailPrice": "2623"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-RC",
+    "name": "20L Remote Controller",
+    "dealerPrice": "566",
+    "retailPrice": "755"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-SP",
+    "name": "20L Sensor Pin",
+    "dealerPrice": "31",
+    "retailPrice": "41"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-SPSG",
+    "name": "20L Sensor Pin Sealing Gasket",
+    "dealerPrice": "5",
+    "retailPrice": "7"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-TD",
+    "name": "20L Temperature Display",
+    "dealerPrice": "283",
+    "retailPrice": "377"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-TF/ANTF",
+    "name": "20L Thermal Fuse / Antifreeze fied plate / ceramic body / therm",
+    "dealerPrice": "566",
+    "retailPrice": "755"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-WFS",
+    "name": "20L Water Flow Sensor",
+    "dealerPrice": "386",
+    "retailPrice": "515"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-WIA",
+    "name": "20L Water Inlet Assembly",
+    "dealerPrice": "257",
+    "retailPrice": "343"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "TS85",
+    "name": "20L Temp Sensor 85°",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-PC",
+    "name": "20L Power Cord",
+    "dealerPrice": "117",
+    "retailPrice": "156"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-AFS",
+    "name": "Antifreeze Sensor",
+    "dealerPrice": "351",
+    "retailPrice": "468"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-BURN",
+    "name": "Burner",
+    "dealerPrice": "2521",
+    "retailPrice": "3361"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-FAN",
+    "name": "Fan",
+    "dealerPrice": "1354",
+    "retailPrice": "1805"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-GI",
+    "name": "Gas inlet",
+    "dealerPrice": "81",
+    "retailPrice": "108"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-GPV",
+    "name": "Gas proportional valve",
+    "dealerPrice": "984",
+    "retailPrice": "1313"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-IC",
+    "name": "Ignition controller",
+    "dealerPrice": "822",
+    "retailPrice": "1095"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-IP",
+    "name": "Ignition pin",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-IPPP",
+    "name": "Ignition pin press plate",
+    "dealerPrice": "3",
+    "retailPrice": "4"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-IPSW",
+    "name": "Ignition pin seal washer",
+    "dealerPrice": "2",
+    "retailPrice": "3"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-PC",
+    "name": "Power cord",
+    "dealerPrice": "129",
+    "retailPrice": "172"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-RAD",
+    "name": "Radiator",
+    "dealerPrice": "2878",
+    "retailPrice": "3320"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-RC",
+    "name": "Remote Controller",
+    "dealerPrice": "1055",
+    "retailPrice": "1406"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-RCC",
+    "name": "Remote Control Cable",
+    "dealerPrice": "283",
+    "retailPrice": "377"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-RCCP",
+    "name": "Remote Control Conversion Parts",
+    "dealerPrice": "116",
+    "retailPrice": "154"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-SP",
+    "name": "Sensor pin",
+    "dealerPrice": "19",
+    "retailPrice": "25"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-TF",
+    "name": "Thermal Fuse",
+    "dealerPrice": "351",
+    "retailPrice": "468"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-SPOW",
+    "name": "Switching Power",
+    "dealerPrice": "1115",
+    "retailPrice": "1487"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-SPPP",
+    "name": "Sensor pin press plate",
+    "dealerPrice": "3",
+    "retailPrice": "4"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-SPSW",
+    "name": "Sensor pin seal washer",
+    "dealerPrice": "2",
+    "retailPrice": "3"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-WI",
+    "name": "Water inlet",
+    "dealerPrice": "437",
+    "retailPrice": "583"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-WITS",
+    "name": "Water Inlet Temperature Sensor",
+    "dealerPrice": "51",
+    "retailPrice": "68"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-WOTS",
+    "name": "Water Outlet Temperature Sensor",
+    "dealerPrice": "51",
+    "retailPrice": "68"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-WPV",
+    "name": "Water Proportional Valve",
+    "dealerPrice": "820",
+    "retailPrice": "1093"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-WPVCS",
+    "name": "Water Proportional Valve Clamp Spring",
+    "dealerPrice": "13",
+    "retailPrice": "18"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-PS",
+    "name": "Parallel System",
+    "dealerPrice": "2269",
+    "retailPrice": "3026"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "30OD-PSMC",
+    "name": "Parallel System Main Controller",
+    "dealerPrice": "856",
+    "retailPrice": "1141"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "RS20-FC",
+    "name": "20L Compact Flue",
+    "dealerPrice": "361",
+    "retailPrice": "481"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "RS20-FE1000",
+    "name": "20L Flue Extension (1000mm)",
+    "dealerPrice": "796",
+    "retailPrice": "1061"
+  },
+  {
+    "modelType": "Fan Forced",
+    "sku": "20-FL",
+    "name": "20L Large Flue",
+    "dealerPrice": "562",
+    "retailPrice": "749"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "STD-BB",
+    "name": "Battery Box",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10/12SS-CHIM",
+    "name": "Chimney 10 - 12L",
+    "dealerPrice": "61",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10/12SS-GJ",
+    "name": "Gas Jet 10L-12L",
+    "dealerPrice": "29",
+    "retailPrice": "38"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10/12SS-RW",
+    "name": "Radiator Washer 10-12L",
+    "dealerPrice": "7",
+    "retailPrice": "10"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10SS-CGS",
+    "name": "Complete Gas Section - 10L(includes solenoid)",
+    "dealerPrice": "198",
+    "retailPrice": "264"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10SS-FB",
+    "name": "Flame Burner -10L",
+    "dealerPrice": "296",
+    "retailPrice": "395"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10SS-JB",
+    "name": "Jet Bar 10L",
+    "dealerPrice": "145",
+    "retailPrice": "194"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10SS-RAD",
+    "name": "Radiator - 10L",
+    "dealerPrice": "975",
+    "retailPrice": "1126"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "10SS-VCAC",
+    "name": "Valve control assembly complete - 10L",
+    "dealerPrice": "536",
+    "retailPrice": "715"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "12SS-CGS",
+    "name": "Complete Gas Section - 12L(includes solenoid)",
+    "dealerPrice": "180",
+    "retailPrice": "239"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "12SS-FB",
+    "name": "Flame Burner -12L",
+    "dealerPrice": "287",
+    "retailPrice": "383"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "12SS-JB",
+    "name": "Jet Bar 12L",
+    "dealerPrice": "151",
+    "retailPrice": "201"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "12SS-RAD",
+    "name": "Radiator - 12L",
+    "dealerPrice": "995",
+    "retailPrice": "1224"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "12SS-VCAC",
+    "name": "Valve control assembly complete - 12L",
+    "dealerPrice": "498",
+    "retailPrice": "664"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-CGS",
+    "name": "Complete Gas Section - 16L (includes solenoid)",
+    "dealerPrice": "200",
+    "retailPrice": "267"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-CHIM",
+    "name": "Chimney 16L",
+    "dealerPrice": "101",
+    "retailPrice": "135"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-FB",
+    "name": "Flame Burner -16L",
+    "dealerPrice": "383",
+    "retailPrice": "511"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-GJ",
+    "name": "Gas Jet 16L",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-JB",
+    "name": "Jet Bar 16L",
+    "dealerPrice": "190",
+    "retailPrice": "253"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-RADF",
+    "name": "Radiator - 16L - Flanged",
+    "dealerPrice": "1552",
+    "retailPrice": "1791"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-RADT",
+    "name": "Radiator - 16L - Threaded",
+    "dealerPrice": "1552",
+    "retailPrice": "1791"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-RW",
+    "name": "Radiator Washer 16L",
+    "dealerPrice": "6",
+    "retailPrice": "8"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-VCACF",
+    "name": "Valve Control Assembly Comp -16L - Flanged",
+    "dealerPrice": "555",
+    "retailPrice": "666"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-VCACT",
+    "name": "Valve control assembly complete - 16L Threaded",
+    "dealerPrice": "555",
+    "retailPrice": "666"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-WIDCF",
+    "name": "Water Inlet/Diaphragm Complete - 16L Flanged",
+    "dealerPrice": "556",
+    "retailPrice": "741"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-WIDCT",
+    "name": "Water inlet/diaphragm complete - 16L Threaded",
+    "dealerPrice": "556",
+    "retailPrice": "741"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "16SS-WIS",
+    "name": "Water Inlet Stem - 16L",
+    "dealerPrice": "136",
+    "retailPrice": "182"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "38DB",
+    "name": "Diaphragm Backer 6L-12L (38mm)",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "52DB",
+    "name": "Diaphragm Backer  16L(52mm)",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "54DIAPB",
+    "name": "Diaphragm Black - 6-12L 54mm",
+    "dealerPrice": "40",
+    "retailPrice": "55"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "54DIAPS",
+    "name": "Diaphragm Silicone - 6-12L 54mm",
+    "dealerPrice": "35",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6/12SS-WIDC",
+    "name": "Water Inlet/Diaphragm Comp 6L -12L",
+    "dealerPrice": "346",
+    "retailPrice": "462"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6/12SS-WIS",
+    "name": "Water Inlet Stem -6L-12L",
+    "dealerPrice": "121",
+    "retailPrice": "161"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6/8SS-GJ",
+    "name": "Gas Jet 6L-8L",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6SS-CGS",
+    "name": "Complete Gas Section - 6L(includes solenoid)",
+    "dealerPrice": "193",
+    "retailPrice": "258"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6SS-CHIM",
+    "name": "Chimney 6L",
+    "dealerPrice": "35",
+    "retailPrice": "47"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6SS-FB",
+    "name": "Flame Burner -6L",
+    "dealerPrice": "133",
+    "retailPrice": "177"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6SS-JB",
+    "name": "Jet Bar 6L",
+    "dealerPrice": "76",
+    "retailPrice": "102"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6SS-RAD",
+    "name": "Radiator - 6L",
+    "dealerPrice": "443",
+    "retailPrice": "512"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6SS-RW",
+    "name": "Radiator Washer 6L",
+    "dealerPrice": "6",
+    "retailPrice": "8"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "6SS-VCAC",
+    "name": "Valve Control Assembly Comp - 6L",
+    "dealerPrice": "498",
+    "retailPrice": "664"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "73DIAPB",
+    "name": "Diaphragm Black - 16L (73mm)",
+    "dealerPrice": "32",
+    "retailPrice": "42"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "73DIAPS",
+    "name": "Diaphragm Silicone -16L 73mm",
+    "dealerPrice": "45",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "8SS-CGS",
+    "name": "Complete Gas Section - 8L(includes solenoid)",
+    "dealerPrice": "193",
+    "retailPrice": "258"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "8SS-CHIM",
+    "name": "Chimney 8L",
+    "dealerPrice": "56",
+    "retailPrice": "74"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "8SS-FB",
+    "name": "Flame Burner -8L",
+    "dealerPrice": "252",
+    "retailPrice": "336"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "8SS-JB",
+    "name": "Jet Bar 8L",
+    "dealerPrice": "125",
+    "retailPrice": "166"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "8SS-RAD",
+    "name": "Radiator - 8L",
+    "dealerPrice": "864",
+    "retailPrice": "993"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "8SS-RW",
+    "name": "Radiator Washer 8L",
+    "dealerPrice": "6",
+    "retailPrice": "8"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "8SS-VCAC",
+    "name": "Valve control assembly complete - 8L",
+    "dealerPrice": "498",
+    "retailPrice": "664"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "DF",
+    "name": "Diaphragm Ferrules",
+    "dealerPrice": "18",
+    "retailPrice": "24"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "DIAPPL",
+    "name": "Diaphragm Plunger - 16L",
+    "dealerPrice": "45",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "DIAPPS",
+    "name": "Diaphragm Plunger - 6-12L",
+    "dealerPrice": "36",
+    "retailPrice": "51"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "FOSPTYPE",
+    "name": "Flame out sensor - P Type - 8, 10, 12, 16",
+    "dealerPrice": "20",
+    "retailPrice": "26"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "FOSS",
+    "name": "Flame out sensor - Straight - 6, 8, 10, 12, 16",
+    "dealerPrice": "20",
+    "retailPrice": "26"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "IPL",
+    "name": "Ignitor pins - Left",
+    "dealerPrice": "24",
+    "retailPrice": "32"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "IPR",
+    "name": "Ignitor pins - Right",
+    "dealerPrice": "24",
+    "retailPrice": "32"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "MS",
+    "name": "Microswitch",
+    "dealerPrice": "45",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "MSHOLD",
+    "name": "Microswitch Holder",
+    "dealerPrice": "11",
+    "retailPrice": "15"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "NRV",
+    "name": "Non Return Valve",
+    "dealerPrice": "51",
+    "retailPrice": "69"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "NSL",
+    "name": "Nested Spring (Large)",
+    "dealerPrice": "23",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "NSS",
+    "name": "Nested Spring (Small)",
+    "dealerPrice": "23",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "ON/OFF",
+    "name": "On/Off Switch - Standard",
+    "dealerPrice": "40",
+    "retailPrice": "54"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "OPV",
+    "name": "Over Pressurization Valve",
+    "dealerPrice": "65",
+    "retailPrice": "100"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "ORING",
+    "name": "O-Ring Kits",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "OTS",
+    "name": "Outlet Temp Sensor (black/blue cords)",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "RUBWAS",
+    "name": "Rubber Washers",
+    "dealerPrice": "10",
+    "retailPrice": "15"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "SOL",
+    "name": "Solenoid",
+    "dealerPrice": "154",
+    "retailPrice": "206"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "SS-CK",
+    "name": "Control Knobs",
+    "dealerPrice": "23",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "SS-CONT",
+    "name": "Controller Std",
+    "dealerPrice": "197",
+    "retailPrice": "263"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "SS-LCD",
+    "name": "LCD Screens 6, 8, 10, 12, 16",
+    "dealerPrice": "198",
+    "retailPrice": "264"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "TS140",
+    "name": "Temperature Sensor -140deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Stainless Steel Spares",
+    "sku": "TS75",
+    "name": "Temperature Sensor -75deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "38DB",
+    "name": "Diaphragm Backer 8L ED (38mm)",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "52DB",
+    "name": "Diaphragm Backer  12, 16L ED(52mm)",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "54DIAPB",
+    "name": "Diaphragm Black - 8L ED (54mm)",
+    "dealerPrice": "40",
+    "retailPrice": "55"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "54DIAPS",
+    "name": "Diaphragm Silicone - 8L ED (54mm)",
+    "dealerPrice": "35",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "73DIAPB",
+    "name": "Diaphragm Black - 12, 16L ED (73mm)",
+    "dealerPrice": "32",
+    "retailPrice": "42"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "73DIAPS",
+    "name": "Diaphragm Silicone -12, 16L ED (73mm)",
+    "dealerPrice": "45",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "DF",
+    "name": "Diaphragm Ferrules",
+    "dealerPrice": "18",
+    "retailPrice": "24"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "DIAPPLED",
+    "name": "Diaphragm Plunger - 12, 16L ED",
+    "dealerPrice": "45",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "DIAPPS",
+    "name": "Diaphragm Plunger - 8L ED",
+    "dealerPrice": "36",
+    "retailPrice": "51"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "ED-CK",
+    "name": "Control Knobs",
+    "dealerPrice": "27",
+    "retailPrice": "35"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "ED-CONT",
+    "name": "Controller - ED 8/12/16",
+    "dealerPrice": "150",
+    "retailPrice": "173"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "ED-FOS",
+    "name": "Flame out sensor - ED",
+    "dealerPrice": "10",
+    "retailPrice": "20"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "ED-LCD",
+    "name": "LCD - ED",
+    "dealerPrice": "180",
+    "retailPrice": "240"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "FOSPTYPE",
+    "name": "Flame out sensor - P Type - 8, 10, 12, 16",
+    "dealerPrice": "20",
+    "retailPrice": "26"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "FOSS",
+    "name": "Flame out sensor - Straight - 6, 8, 10, 12, 16",
+    "dealerPrice": "20",
+    "retailPrice": "26"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "LP/ED-IPL",
+    "name": "Ignitor pins - Left",
+    "dealerPrice": "24",
+    "retailPrice": "32"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "LP/ED-IPR",
+    "name": "Ignitor pins - Right",
+    "dealerPrice": "24",
+    "retailPrice": "32"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "MS",
+    "name": "Microswitches",
+    "dealerPrice": "45",
+    "retailPrice": "60"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "MSHOLD",
+    "name": "Microswitch Holder",
+    "dealerPrice": "11",
+    "retailPrice": "15"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "NRV",
+    "name": "Non Return Valve",
+    "dealerPrice": "51",
+    "retailPrice": "69"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "NSL",
+    "name": "Nested Spring (Large) 12, 16L ED",
+    "dealerPrice": "23",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "NSS",
+    "name": "Nested Spring (Small) 8L ED",
+    "dealerPrice": "23",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "OPV",
+    "name": "Over Pressurization Valve",
+    "dealerPrice": "65",
+    "retailPrice": "100"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "ORING",
+    "name": "O-Ring Kits",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "OTS",
+    "name": "Outlet Temp Sensor (black/blue cords)",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "SOL",
+    "name": "Solenoid",
+    "dealerPrice": "154",
+    "retailPrice": "206"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "STD-BB",
+    "name": "Battery Box",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "TS110",
+    "name": "Temp Sensor 110deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "TS130",
+    "name": "Temp Sensor 12LP - 130 deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "TS140",
+    "name": "Temperature Sensor -140deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "TS75",
+    "name": "Temperature Sensor -75deg",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "TS85",
+    "name": "Temp Sensor 85deg - Radiator",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "TS88",
+    "name": "Temp Sensor 88deg - Chimney",
+    "dealerPrice": "20",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12/16ED-WIS",
+    "name": "12/16ED Water Inlet Stem",
+    "dealerPrice": "80",
+    "retailPrice": "150"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-CGS",
+    "name": "12ED Complete Gas Section",
+    "dealerPrice": "309",
+    "retailPrice": "412"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-CHIM",
+    "name": "12ED Chimney",
+    "dealerPrice": "129",
+    "retailPrice": "172"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-FB",
+    "name": "12ED Flame Burner",
+    "dealerPrice": "309",
+    "retailPrice": "412"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-FBJB",
+    "name": "12ED Flame Burner & Jet Bar",
+    "dealerPrice": "445",
+    "retailPrice": "593"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-JB",
+    "name": "12ED Jet Bar",
+    "dealerPrice": "141",
+    "retailPrice": "189"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-RAD",
+    "name": "12ED Radiator",
+    "dealerPrice": "1056",
+    "retailPrice": "1219"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-RW",
+    "name": "12ED Radiator Washer",
+    "dealerPrice": "9",
+    "retailPrice": "12"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-VCAC",
+    "name": "12ED Valve Control Assembly Complete",
+    "dealerPrice": "796",
+    "retailPrice": "1061"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "12ED-WIDC",
+    "name": "12ED Water Inlet Diaphragm Complete",
+    "dealerPrice": "528",
+    "retailPrice": "704"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-CGS",
+    "name": "16ED Complete Gas Section",
+    "dealerPrice": "288",
+    "retailPrice": "384"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-CHIM",
+    "name": "16ED Chimney",
+    "dealerPrice": "154",
+    "retailPrice": "206"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-FB",
+    "name": "16ED Flame Burner",
+    "dealerPrice": "296",
+    "retailPrice": "394"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-FBJB",
+    "name": "16ED Flame Burner & Jet Bar",
+    "dealerPrice": "538",
+    "retailPrice": "718"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-JB",
+    "name": "16ED Jet Bar",
+    "dealerPrice": "242",
+    "retailPrice": "324"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-RAD",
+    "name": "16ED Radiator",
+    "dealerPrice": "1570",
+    "retailPrice": "1801"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-RW",
+    "name": "16ED Radiator Washer",
+    "dealerPrice": "9",
+    "retailPrice": "12"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-VCAC",
+    "name": "16ED Valve Control Assembly Complete",
+    "dealerPrice": "796",
+    "retailPrice": "1061"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "16ED-WIDC",
+    "name": "16ED Water Inlet Diaphragm Complete",
+    "dealerPrice": "528",
+    "retailPrice": "704"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-CGS",
+    "name": "8ED Complete Gas Section",
+    "dealerPrice": "206",
+    "retailPrice": "274"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-CHIM",
+    "name": "8ED Chimney",
+    "dealerPrice": "103",
+    "retailPrice": "137"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-FB",
+    "name": "8ED Flame Burner",
+    "dealerPrice": "234",
+    "retailPrice": "312"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-FBJB",
+    "name": "8ED Flame Burner & Jet Bar",
+    "dealerPrice": "304",
+    "retailPrice": "406"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-JB",
+    "name": "8ED Jet Bar",
+    "dealerPrice": "70",
+    "retailPrice": "94"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-RAD",
+    "name": "8ED Radiator",
+    "dealerPrice": "842",
+    "retailPrice": "968"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-RW",
+    "name": "8ED Radiator Washer",
+    "dealerPrice": "9",
+    "retailPrice": "12"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-VCAC",
+    "name": "8ED Valve Control Assembly Complete",
+    "dealerPrice": "604",
+    "retailPrice": "805"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-WIDC",
+    "name": "8ED Water Inlet diaphragm complete",
+    "dealerPrice": "309",
+    "retailPrice": "412"
+  },
+  {
+    "modelType": "Ecodew Spares",
+    "sku": "8ED-WIS",
+    "name": "8ED Water Inlet Stem",
+    "dealerPrice": "88",
+    "retailPrice": "105"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BBB",
+    "name": "4 Burner Battery Box",
+    "dealerPrice": "32",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B1.0C",
+    "name": "4 Burner Cap 1.0",
+    "dealerPrice": "46",
+    "retailPrice": "62"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B1.0CS",
+    "name": "4 Burner Burner Cap 1.0 (Slimline)",
+    "dealerPrice": "42",
+    "retailPrice": "56"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B1.0CT",
+    "name": "4 Burner Cap 1.0 (Tempered Glass)",
+    "dealerPrice": "42",
+    "retailPrice": "56"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B1.75C",
+    "name": "4 Burner Cap 1.75",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B1.75CS",
+    "name": "4 Burner Cap 1.75 (Slimline)",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B1.75CT",
+    "name": "4 Burner Cap 1.75 (Tempered Glass)",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B4.0C",
+    "name": "4 Burner Cap 4.0",
+    "dealerPrice": "165",
+    "retailPrice": "220"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B4.0CS",
+    "name": "4 Burner Cap 4.0 (Slimline)",
+    "dealerPrice": "165",
+    "retailPrice": "220"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4B4.0CT",
+    "name": "4 Burner Cap 4.0 (Tempered Glass)",
+    "dealerPrice": "165",
+    "retailPrice": "220"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BB1.0",
+    "name": "4 Burner Burner Base 1.0",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BB1.0ST",
+    "name": "4 Burner Base 1.0 (Slim/Temp)",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BB1.75",
+    "name": "4 Burner Burner Base 1.75",
+    "dealerPrice": "41",
+    "retailPrice": "55"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BB1.75ST",
+    "name": "4 Burner Base 1.75 (Slim/Temp)",
+    "dealerPrice": "41",
+    "retailPrice": "55"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BB4.0",
+    "name": "4 Burner Burner Base 4.0",
+    "dealerPrice": "257",
+    "retailPrice": "343"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BB4.0ST",
+    "name": "4 Burner Base 4.0 (Slim/Temp)",
+    "dealerPrice": "257",
+    "retailPrice": "343"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BBBRAC",
+    "name": "4 Burner Battery Box Bracket",
+    "dealerPrice": "18",
+    "retailPrice": "24"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BBDL",
+    "name": "4 Burner Distributor 4.0 (Large)",
+    "dealerPrice": "233",
+    "retailPrice": "310"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BBDM",
+    "name": "4 Burner Distributor 1.75 (Medium)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BBDS",
+    "name": "4 Burner Distributor 1.0 (Small)",
+    "dealerPrice": "66",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BBW",
+    "name": "4 Burner Battery Box Wire",
+    "dealerPrice": "111",
+    "retailPrice": "148"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BCK",
+    "name": "4 Burner Control Knobs",
+    "dealerPrice": "90",
+    "retailPrice": "120"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BCKC",
+    "name": "4 Burner Control Knob Cover",
+    "dealerPrice": "7",
+    "retailPrice": "10"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BCKS",
+    "name": "4 Burner Control Knob Spring",
+    "dealerPrice": "7",
+    "retailPrice": "10"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BCKSLIM",
+    "name": "4 Burner Control Knob - Slimline",
+    "dealerPrice": "124",
+    "retailPrice": "166"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BCKTEMP",
+    "name": "4 Burner Control Knob - Tempered Glass",
+    "dealerPrice": "124",
+    "retailPrice": "166"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGCPL",
+    "name": "4 Burner Gas Connection Pipe 4.0Kw (Large)",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGCPM-L",
+    "name": "4 Burner Gas Connection Pipe 1.75Kw (Medium) - Left",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGCPM-R",
+    "name": "4 Burner Gas Connection Pipe 1.75Kw (Medium) - Right",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGCPS",
+    "name": "4 Burner Gas Connection Pipe 1.0Kw (Small)",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGIT",
+    "name": "4 Burner Gas Inlet Tube",
+    "dealerPrice": "47",
+    "retailPrice": "62"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGV0.27",
+    "name": "4 Burner Gas Valve - 1.0Kw",
+    "dealerPrice": "206",
+    "retailPrice": "274"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGV0.34",
+    "name": "4 Burner Gas Valve - 1.75Kw",
+    "dealerPrice": "206",
+    "retailPrice": "274"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BGV0.73",
+    "name": "4 Burner Gas Valve - 4.0Kw",
+    "dealerPrice": "206",
+    "retailPrice": "274"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIC",
+    "name": "4 Burner Ignitor Clip",
+    "dealerPrice": "9",
+    "retailPrice": "12"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIGNIT",
+    "name": "4 Burner Igniter Box",
+    "dealerPrice": "77",
+    "retailPrice": "103"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIGPIN1.0",
+    "name": "4 Burner Ignition Pin 1.0Kw",
+    "dealerPrice": "21",
+    "retailPrice": "27"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIGPIN1.0-S/T",
+    "name": "4 Burner Ignition Pin 1.0Kw (Slimline / Tempered Glass)",
+    "dealerPrice": "21",
+    "retailPrice": "27"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIGPIN1.75",
+    "name": "4 Burner Ignition Pin 1.75Kw",
+    "dealerPrice": "21",
+    "retailPrice": "27"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIGPIN1.75-S/T",
+    "name": "4 Burner Ignition Pin 1.75Kw (Slimline / Tempered Glass)",
+    "dealerPrice": "21",
+    "retailPrice": "27"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIGPIN4.0",
+    "name": "4 Burner Ignition Pin 4.0Kw",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BIGPIN4.0-S/T",
+    "name": "4 Burner Ignition Pin 4.0Kw (Slimline / Tempered Glass)",
+    "dealerPrice": "26",
+    "retailPrice": "34"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BJET1.0",
+    "name": "4 Burner Gas Jet 1.0Kw",
+    "dealerPrice": "13",
+    "retailPrice": "17"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BJET1.75",
+    "name": "4 Burner Gas Jet 1.75Kw",
+    "dealerPrice": "13",
+    "retailPrice": "17"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BJET4.0",
+    "name": "4 Burner Gas Jet 4.0Kw",
+    "dealerPrice": "13",
+    "retailPrice": "17"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BJETSET",
+    "name": "4 Burner Gas Jet Set",
+    "dealerPrice": "94",
+    "retailPrice": "125"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BLPS",
+    "name": "4 Burner Left Pan Support",
+    "dealerPrice": "351",
+    "retailPrice": "468"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BPS-SLIM-L",
+    "name": "4 Burner Slimline Support Grid - Left",
+    "dealerPrice": "351",
+    "retailPrice": "468"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BPS-SLIM-R",
+    "name": "4 Burner Slimline Support Grid - Right",
+    "dealerPrice": "323",
+    "retailPrice": "431"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BRPS",
+    "name": "4 Burner Right Pan Support",
+    "dealerPrice": "355",
+    "retailPrice": "473"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BS1.0",
+    "name": "4 Burner Seal 1.0",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BS1.75",
+    "name": "4 Burner Seal 1.75",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BS4.0",
+    "name": "4 Burner Seal 4.0",
+    "dealerPrice": "30",
+    "retailPrice": "40"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BSLIMTP",
+    "name": "4 Burner Slimline - Top Panel",
+    "dealerPrice": "833",
+    "retailPrice": "1111"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BSSTP",
+    "name": "4 Burner Stainless Steel  - Top Panel",
+    "dealerPrice": "332",
+    "retailPrice": "443"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTEMPTP",
+    "name": "4 Burner Tempered Glass - Top Panel",
+    "dealerPrice": "1132",
+    "retailPrice": "1509"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM1.0",
+    "name": "4 Burner Thermocouple Needle 1.0 Kw (Stainless / Slimline)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM1.0-SLIM",
+    "name": "4 Burner Thermocouple Needle 1.0Kw (Slimline)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM1.0-TEMP",
+    "name": "4 Burner Thermocouple Needle 1.0Kw (Tempered Glass)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM1.75",
+    "name": "4 Burner Thermocouple Needle 1.75Kw (Stainless / Slimline)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM1.75-SLIM",
+    "name": "4 Burner Thermocouple Needle 1.75Kw (Slimline)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM1.75-TEMP",
+    "name": "4 Burner Thermocouple Needle 1.0 Kw(Tempered Glass)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM4.-TEMP",
+    "name": "4 Burner Thermocouple Needle 4.0Kw (Tempered Glass)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM4.0",
+    "name": "4 Burner Thermocouple Needle 4.0Kw (Stainless / Slimline)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "4BTHERM4.0-SLIM",
+    "name": "4 Burner Thermocouple Needle 4.0Kw (Slimline)",
+    "dealerPrice": "72",
+    "retailPrice": "96"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BBATBOX",
+    "name": "2 Burner Battery box",
+    "dealerPrice": "51",
+    "retailPrice": "69"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BBBBRAC",
+    "name": "2 Burner Battery Box Bracket",
+    "dealerPrice": "24",
+    "retailPrice": "32"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BBASEL",
+    "name": "2 Burner Burner Base - Large",
+    "dealerPrice": "86",
+    "retailPrice": "115"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BBASES",
+    "name": "2 Burner Base - Small",
+    "dealerPrice": "33",
+    "retailPrice": "45"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BFOOT-L",
+    "name": "2 Burner Foot - Large",
+    "dealerPrice": "11",
+    "retailPrice": "14"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BFOOT-S",
+    "name": "2 Burner Foot - Small",
+    "dealerPrice": "7",
+    "retailPrice": "10"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BGIT",
+    "name": "2 Burner Gas Inlet Tube",
+    "dealerPrice": "59",
+    "retailPrice": "79"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BGASVAL-0.34",
+    "name": "2 BurnerGas Valve  - 1.75Kw",
+    "dealerPrice": "174",
+    "retailPrice": "232"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BGASVAL-0.72",
+    "name": "2 Burner Gas Valve  - 4.0Kw",
+    "dealerPrice": "174",
+    "retailPrice": "232"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BJET1.0",
+    "name": "2 Burner Gas Jet -1.0kW",
+    "dealerPrice": "5",
+    "retailPrice": "7"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BJET4.0",
+    "name": "2 Burner Gas Jet - 4.0kW",
+    "dealerPrice": "5",
+    "retailPrice": "7"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BGM-L",
+    "name": "2 Burner Gas Manifold - Large",
+    "dealerPrice": "29",
+    "retailPrice": "38"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BIGNITEB",
+    "name": "2 Burner Igniter box",
+    "dealerPrice": "55",
+    "retailPrice": "70"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BIGPINL",
+    "name": "2 Burner Ignitor Pin 4.0 - Large",
+    "dealerPrice": "18",
+    "retailPrice": "24"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BIGPINS",
+    "name": "2 Burner Ignitor Pin 1.0 - Small",
+    "dealerPrice": "15",
+    "retailPrice": "20"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BKNOB",
+    "name": "2 Burner Control Knob",
+    "dealerPrice": "21",
+    "retailPrice": "30"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BKNOBCOV",
+    "name": "2 Burner Control Knob cover",
+    "dealerPrice": "4",
+    "retailPrice": "5"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BKNOBSPRIN",
+    "name": "2 Burner Control Knob Spring",
+    "dealerPrice": "4",
+    "retailPrice": "5"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BLARCAP",
+    "name": "2 Burner Large Burner Cap",
+    "dealerPrice": "80",
+    "retailPrice": "120"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BPANS",
+    "name": "2 Burner Pan support",
+    "dealerPrice": "187",
+    "retailPrice": "250"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BTP",
+    "name": "2 Burner Top Panel",
+    "dealerPrice": "219",
+    "retailPrice": "292"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BSMALLCAP",
+    "name": "2 Burner Small Burner Cap",
+    "dealerPrice": "26",
+    "retailPrice": "35"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BTHERM4.0",
+    "name": "2 Burner Thermocouple needle 4.0Kw",
+    "dealerPrice": "40",
+    "retailPrice": "54"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BTHERM1.0",
+    "name": "2 Burner Thermocouple needle 1.0Kw",
+    "dealerPrice": "40",
+    "retailPrice": "54"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BDISTL",
+    "name": "2 Burner Distribution - Large",
+    "dealerPrice": "143",
+    "retailPrice": "190"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "2BDISTS",
+    "name": "2 Burner DistrIbution - Small",
+    "dealerPrice": "38",
+    "retailPrice": "50"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-DGLS",
+    "name": "Door Glass (Inner or Outer)",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-DHAND",
+    "name": "Door Handle",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-GAS",
+    "name": "Gasket",
+    "dealerPrice": "41",
+    "retailPrice": "55"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-LID",
+    "name": "Lid & Handle",
+    "dealerPrice": "103",
+    "retailPrice": "137"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-MAN",
+    "name": "Manifold",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OBURN",
+    "name": "Oven Burner",
+    "dealerPrice": "67",
+    "retailPrice": "89"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OFT",
+    "name": "Oven foot",
+    "dealerPrice": "9",
+    "retailPrice": "12"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OGL",
+    "name": "Oven Gasline",
+    "dealerPrice": "36",
+    "retailPrice": "48"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OIE",
+    "name": "Oven ignitor Electrode",
+    "dealerPrice": "31",
+    "retailPrice": "41"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-CK",
+    "name": "Control Knob",
+    "dealerPrice": "14",
+    "retailPrice": "19"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OR",
+    "name": "Oven Rack",
+    "dealerPrice": "62",
+    "retailPrice": "82"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OTHC",
+    "name": "Oven Thermocouple",
+    "dealerPrice": "170",
+    "retailPrice": "226"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OTY",
+    "name": "Oven Tray",
+    "dealerPrice": "226",
+    "retailPrice": "302"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-OVAL",
+    "name": "Oven Valve",
+    "dealerPrice": "340",
+    "retailPrice": "453"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-PGR",
+    "name": "Pot Grate",
+    "dealerPrice": "185",
+    "retailPrice": "247"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-RBUR",
+    "name": "Range Burner",
+    "dealerPrice": "66",
+    "retailPrice": "88"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-RIGN",
+    "name": "Range Ignitor",
+    "dealerPrice": "15",
+    "retailPrice": "21"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-RT",
+    "name": "Remote thermometer",
+    "dealerPrice": "196",
+    "retailPrice": "261"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-RVALL",
+    "name": "Range Valve (Left)",
+    "dealerPrice": "340",
+    "retailPrice": "453"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-RVALR",
+    "name": "Range Valve (Right)",
+    "dealerPrice": "340",
+    "retailPrice": "453"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-THC",
+    "name": "Thermcouple",
+    "dealerPrice": "170",
+    "retailPrice": "226"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-WP",
+    "name": "Windshield Panel",
+    "dealerPrice": "18",
+    "retailPrice": "24"
+  },
+  {
+    "modelType": "Hobs",
+    "sku": "C2B-WSC",
+    "name": "Windscreen clip",
+    "dealerPrice": "7",
+    "retailPrice": "10"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-AFA",
+    "name": "Air filter assembly",
+    "dealerPrice": "56",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-BA",
+    "name": "Burner assembly",
+    "dealerPrice": "402",
+    "retailPrice": "537"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-CCA",
+    "name": "Combustion Chamber assembly",
+    "dealerPrice": "64",
+    "retailPrice": "86"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-CCC",
+    "name": "Combustion Chamber Cover",
+    "dealerPrice": "37",
+    "retailPrice": "49"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-CCHS",
+    "name": "Combustion chamber heat shield",
+    "dealerPrice": "34",
+    "retailPrice": "46"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-CP",
+    "name": "Control panel",
+    "dealerPrice": "167",
+    "retailPrice": "223"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-ETS",
+    "name": "External Temperature Sensor",
+    "dealerPrice": "70",
+    "retailPrice": "94"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "Motor",
+    "name": "anti vibration ring",
+    "dealerPrice": "2388",
+    "retailPrice": "3184"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-GPA",
+    "name": "Main gas pipe assembly",
+    "dealerPrice": "56",
+    "retailPrice": "74"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-IB",
+    "name": "Igniter bracket",
+    "dealerPrice": "5",
+    "retailPrice": "6"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-IGN",
+    "name": "Igniter",
+    "dealerPrice": "109",
+    "retailPrice": "145"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-INF",
+    "name": "Infrared filter plate",
+    "dealerPrice": "46",
+    "retailPrice": "61"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-IP",
+    "name": "Ignition pin",
+    "dealerPrice": "23",
+    "retailPrice": "31"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-LCD",
+    "name": "LCD Display",
+    "dealerPrice": "314",
+    "retailPrice": "418"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-NOZ",
+    "name": "Nozzle",
+    "dealerPrice": "8",
+    "retailPrice": "11"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-ODS",
+    "name": "ODS (Oxygen depletion sensor)",
+    "dealerPrice": "168",
+    "retailPrice": "224"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-ODSBRAC",
+    "name": "ODS fixing bracket",
+    "dealerPrice": "4",
+    "retailPrice": "5"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-ODSGP",
+    "name": "ODS gas pipe",
+    "dealerPrice": "38",
+    "retailPrice": "51"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-ODSWS",
+    "name": "ODS wind shield",
+    "dealerPrice": "5",
+    "retailPrice": "7"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-PC",
+    "name": "Power cord",
+    "dealerPrice": "193",
+    "retailPrice": "257"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-PCB",
+    "name": "Main PCB",
+    "dealerPrice": "1199",
+    "retailPrice": "1598"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-PVA",
+    "name": "Proportional valve assembly",
+    "dealerPrice": "836",
+    "retailPrice": "1114"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-RC",
+    "name": "Remote controller",
+    "dealerPrice": "284",
+    "retailPrice": "379"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-RR",
+    "name": "Remote receiver",
+    "dealerPrice": "10",
+    "retailPrice": "13"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-TC",
+    "name": "Top cover",
+    "dealerPrice": "296",
+    "retailPrice": "395"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15MJ-VLA",
+    "name": "Vent louver assembly",
+    "dealerPrice": "77",
+    "retailPrice": "103"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-AFA",
+    "name": "Air filter assembly",
+    "dealerPrice": "56",
+    "retailPrice": "75"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-BA",
+    "name": "Burner assembly",
+    "dealerPrice": "426",
+    "retailPrice": "569"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-CCA",
+    "name": "Combustion Chamber assembly",
+    "dealerPrice": "84",
+    "retailPrice": "112"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-CCC",
+    "name": "Combustion Chamber Cover",
+    "dealerPrice": "38",
+    "retailPrice": "50"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-CCHS",
+    "name": "Combustion chamber heat shield",
+    "dealerPrice": "43",
+    "retailPrice": "58"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-ETS",
+    "name": "External Temperature Sensor",
+    "dealerPrice": "70",
+    "retailPrice": "94"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-FANMOT",
+    "name": "Fan blade assembly / Fan Motor anti vibration ring",
+    "dealerPrice": "2388",
+    "retailPrice": "3184"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-GPA",
+    "name": "Main gas pipe assembly",
+    "dealerPrice": "60",
+    "retailPrice": "80"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-IB",
+    "name": "Igniter bracket",
+    "dealerPrice": "5",
+    "retailPrice": "7"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-IGN",
+    "name": "Igniter",
+    "dealerPrice": "109",
+    "retailPrice": "145"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-INF",
+    "name": "Infrared filter plate",
+    "dealerPrice": "46",
+    "retailPrice": "61"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-IP",
+    "name": "Ignition pin",
+    "dealerPrice": "23",
+    "retailPrice": "31"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-LCD",
+    "name": "Display",
+    "dealerPrice": "314",
+    "retailPrice": "418"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-NOZ",
+    "name": "Nozzle",
+    "dealerPrice": "8",
+    "retailPrice": "11"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-ODS",
+    "name": "ODS (Oxygen depletion sensor)",
+    "dealerPrice": "168",
+    "retailPrice": "224"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-ODSBRAC",
+    "name": "ODS fixing bracket",
+    "dealerPrice": "4",
+    "retailPrice": "7"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-ODSGP",
+    "name": "ODS gas pipe",
+    "dealerPrice": "44",
+    "retailPrice": "58"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-ODSWS",
+    "name": "ODS wind shield",
+    "dealerPrice": "5",
+    "retailPrice": "7"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-PC",
+    "name": "Power cord",
+    "dealerPrice": "193",
+    "retailPrice": "257"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-PCB",
+    "name": "Main PCB",
+    "dealerPrice": "1199",
+    "retailPrice": "1598"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-PVA",
+    "name": "Proportional valve assembly",
+    "dealerPrice": "836",
+    "retailPrice": "1114"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-RC",
+    "name": "Remote controller",
+    "dealerPrice": "284",
+    "retailPrice": "379"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-RR",
+    "name": "Remote receiver",
+    "dealerPrice": "10",
+    "retailPrice": "13"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-TC",
+    "name": "Top cover",
+    "dealerPrice": "365",
+    "retailPrice": "487"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "25MJ-VLA",
+    "name": "Vent louver assembly",
+    "dealerPrice": "131",
+    "retailPrice": "175"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15/25MJ-GIC",
+    "name": "15/25MJ Gas Inlet Connector",
+    "dealerPrice": "23",
+    "retailPrice": "31"
+  },
+  {
+    "modelType": "Space Heaters",
+    "sku": "15/25MJ-GIV",
+    "name": "15/25MJ Gas Inlet Valve",
+    "dealerPrice": "75",
+    "retailPrice": "100"
+  }
+]
